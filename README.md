@@ -1,1 +1,1 @@
-# GraphQLNetCoreCoffeShop
+# GraphQLCoffeShopNetCore
